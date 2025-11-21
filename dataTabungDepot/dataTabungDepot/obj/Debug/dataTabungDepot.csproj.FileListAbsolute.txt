@@ -1,0 +1,8 @@
+C:\Users\firqy\OneDrive\Desktop\Belajar Mandiri\Coding\dataTabungDepot\dataTabungDepot\bin\Debug\dataTabungDepot.exe.config
+C:\Users\firqy\OneDrive\Desktop\Belajar Mandiri\Coding\dataTabungDepot\dataTabungDepot\bin\Debug\dataTabungDepot.exe
+C:\Users\firqy\OneDrive\Desktop\Belajar Mandiri\Coding\dataTabungDepot\dataTabungDepot\bin\Debug\dataTabungDepot.pdb
+C:\Users\firqy\OneDrive\Desktop\Belajar Mandiri\Coding\dataTabungDepot\dataTabungDepot\obj\Debug\dataTabungDepot.csproj.AssemblyReference.cache
+C:\Users\firqy\OneDrive\Desktop\Belajar Mandiri\Coding\dataTabungDepot\dataTabungDepot\obj\Debug\dataTabungDepot.csproj.CoreCompileInputs.cache
+C:\Users\firqy\OneDrive\Desktop\Belajar Mandiri\Coding\dataTabungDepot\dataTabungDepot\obj\Debug\dataTabungDepot.exe
+C:\Users\firqy\OneDrive\Desktop\Belajar Mandiri\Coding\dataTabungDepot\dataTabungDepot\obj\Debug\dataTabungDepot.pdb
+C:\Users\firqy\OneDrive\Desktop\Belajar Mandiri\Coding\dataTabungDepot\dataTabungDepot\obj\Debug\dataTabungDepot.exe.config
